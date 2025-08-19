@@ -1,5 +1,5 @@
 # PROTOGEN
-Protogen head created in Fusion 360 from scratch but based on existing designs. Intended for use with 64x32 LED panels with 3mm separation between LEDs.
+Protogen head created in Fusion 360 from scratch but based on existing designs. Intended for use with 64x32 LED panels with 3mm separation between LEDs, and for a 1mm thick visor.
 <br/>
 
 For examples on how to use the LED Panels: [Example Code](https://github.com/WW92030-STORAGE/ESP32_64x32P3/blob/main/THRESHOLD2X.INO).<br/>
