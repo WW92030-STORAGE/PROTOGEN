@@ -6,6 +6,8 @@ For examples on how to use the LED Panels: [Example Code](https://github.com/WW9
 
 DISCLAIMER - The models are currently untested but should theoretically work. Feel free to use these files at your own risk (i.e. as in printing and using the models, not the files themselves). If you have any questions, concerns, or suggestions, feel free to make a pull request or DM me on Discord (NormalExisting).
 
+[VIDEO OF ME MODELLING THE HEADPIECE IN FUSION 360](https://www.youtube.com/watch?v=ZO4jP1xXS2k)
+
 ---
 
 ![INSERT EXAMPLE RENDER HERE](render.png?raw=true)
